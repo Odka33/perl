@@ -1,0 +1,1 @@
+print "bla" x 10 ;
